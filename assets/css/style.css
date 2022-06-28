@@ -1,0 +1,79 @@
+#container {
+
+    background-color: rgba(0, 0, 0, 0.7);
+    top: 0;
+    height: 100vh;
+}
+
+#onur_cover {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+#coverdiv {
+    text-align: center;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 50px;
+
+
+}
+
+#onur_text {
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+    font-weight: bold;
+    text-shadow: 0px 0px 20px #000000;
+}
+
+.circleButton {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 12px;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    display: inline-block;
+    color: #ffffff;
+}
+
+.circleButton:hover {
+    color: gold
+}
+
+
+#circleButtonBase {
+    text-align: center;
+
+}
+
+#rectangleButtonBase {
+    margin-top: 25px;
+}
+
+.rectangleButton {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 12px;
+    width: 200px;
+    height: 20px;
+    text-align: center;
+    margin: auto;
+    display: block;
+    color: #ffffff;
+    margin-bottom: 8px;
+    border: 2px solid #ffffff;
+    text-decoration:none;
+}
+
+.rectangleButton:hover {
+    color: gold;
+    border: 2px solid gold;
+}
+
+.text_decoration_none{
+    text-decoration: none;
+}
+
